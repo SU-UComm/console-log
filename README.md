@@ -16,7 +16,7 @@ i.e. on the same line.
 
 Objects and arrays are emitted in the format
 
-```JSON
+```
 key (value type):
 json-ified value
 ```

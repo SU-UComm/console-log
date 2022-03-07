@@ -28,7 +28,7 @@ the label.
 ## Usage
 
 ```PHP
-if ( function_exists( '\Stanford\ConsoleLog\console_log()' ) ) {
+if ( function_exists( '\Stanford\ConsoleLog\console_log' ) ) {
   \Stanford\ConsoleLog\console_log( [
     '$var1' => $var1,
     '$var2' => $var2,
